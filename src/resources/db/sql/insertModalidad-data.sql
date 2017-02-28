@@ -1,0 +1,11 @@
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (1,'M1','Centro de datos externo (Centro de datos primario)');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (2,'M2','Centro de datos alterno (Servicio DRP)');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (3,'M3','Extensión de nube privada (ENP) en los puntos con mayor demanda transaccional deoperación de los servicios del instituto');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (4,'M4','Extensión de la nube híbrida (ENH) para persistencia y disponibilidad de servicios parausuarios externos a la nube privada IMSS');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (5,'M5','Instalaciones desasignadas por el instituto');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (6,'M6','Ambientes no productivos para el apoyo a la evolución y desarrollo tecnológico P13');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (7,'MF SANI','Modalidad Fija SANI');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (8,'MF SINI','Modalidad Fija SINI');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (9,'MF SCONI','Modalidad Fija SCONI');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (10,'MF Gobierno','Modalidad Fija Gobierno');
+INSERT INTO KIO_CATALOGOMODALIDAD VALUES (11,'MF SSNI','Modalidad Fija SSNI');
